@@ -11,10 +11,17 @@
 - JavaScript
 - React
 
-🚀 Current Projects
-- SmartCare-HMS
-- PlacementOS
-r
+## 🚀 Featured Projects
+
+### SmartCare-HMS
+Hospital Management System built using modern web technologies.
+
+### PlacementOS
+AI-Powered Hiring Simulator for placement preparation.
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,git,github,html,css,javascript,react,vscode" />
+</p>
 
 ## Connect With Me
 
@@ -24,3 +31,9 @@ GitHub: https://github.com/codebaduli
 ![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebaduli&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codebaduli&layout=compact&theme=tokyonight)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=codebaduli&theme=tokyonight)
+## 📈 Contribution Graph
+
+[![Garima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codebaduli&theme=tokyo-night)](https://github.com/codebaduli)
