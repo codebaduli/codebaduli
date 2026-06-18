@@ -31,9 +31,11 @@ GitHub: https://github.com/codebaduli
 ![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebaduli&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codebaduli&layout=compact&theme=tokyonight)
+
+
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=codebaduli&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=codebaduli&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ## 📈 Contribution Graph
 
 [![Garima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codebaduli&theme=tokyo-night)](https://github.com/codebaduli)
