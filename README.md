@@ -19,3 +19,8 @@ r
 ## Connect With Me
 
 GitHub: https://github.com/codebaduli
+## 📊 GitHub Stats
+
+![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebaduli&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codebaduli&layout=compact&theme=tokyonight)
